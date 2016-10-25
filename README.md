@@ -1,2 +1,2 @@
-# Videokit
+# CLVideokit
 Extensions for processing videos.
